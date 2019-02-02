@@ -1,0 +1,48 @@
+#home_monitor{
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+}
+
+#dateHeader{
+    -fx-background-color:#1a8cff;
+}
+
+.tab{
+    -fx-background-color: #EEE;
+    -fx-tab-min-width: 90;
+}
+
+#home_cost{
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+}
+#home_income_header{
+     -fx-background-color:#009900;
+}
+
+#home_income{
+    -fx-background-color: white;
+    -fx-border-color: lightgray;
+}
+#home_cost_header{
+     -fx-background-color:#ff471a;
+}
+
+#add_income{
+    -fx-border-style: dotted;
+    -fx-background-color: lightcoral;
+    -fx-graphic: url('plus_.png');
+}
+#add_cost{
+    -fx-border-style: dotted;
+    -fx-background-color: lightcoral;
+    -fx-graphic: url('minus_.png');
+}
+
+#cost_input{
+    -fx-background-color: #EEE;
+}
+#cost_input_header{
+    -fx-background-color: gray;
+    -fx-border-color:lightgray;
+}
